@@ -1,5 +1,5 @@
-# Time-Series-Analysis-and-Forecasting
-### H1B Visa Trends: A Time Series Forecasting Study
+## Time-Series-Analysis-and-Forecasting
+#### H1B Visa Trends: A Time Series Forecasting Study
 
 The dataset is derived from the H-1B Employer Data Hub launched by U.S. Citizenship and Immigration Services.
 The dataset contains Fiscal Year, Employer (Petitioner) Name,	Petitioner City,	Petitioner State,	Petitioner Zip Code,	Initial Approval,	Initial Denial,	Continuing Approval,	Continuing Denial.
